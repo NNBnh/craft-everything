@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "N"
+    ],
+    "key": {
+        "#": {
+            "tag": "craftable_grass:warpeds"
+        },
+        "N": {
+            "item": "minecraft:netherrack"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_nylium",
+        "count": 1
+    }
+}

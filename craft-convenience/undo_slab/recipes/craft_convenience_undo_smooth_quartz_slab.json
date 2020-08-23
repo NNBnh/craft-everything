@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:smooth_quartz_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:smooth_quartz",
+        "count": 1
+    },
+    "group": "undo_slab"
+}

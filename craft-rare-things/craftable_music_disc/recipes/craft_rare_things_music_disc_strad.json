@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "WDW",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "W": {
+            "item": "minecraft:white_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_strad",
+        "count": 1
+    },
+    "group": "music_disc"
+}

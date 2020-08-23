@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "PDP",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mall",
+        "count": 1
+    },
+    "group": "music_disc"
+}

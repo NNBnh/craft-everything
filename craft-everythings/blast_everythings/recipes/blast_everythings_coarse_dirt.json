@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:gravel"
+    },
+    "result": "minecraft:coarse_dirt",
+    "experience": 0.1,
+    "cookingtime": 500
+}

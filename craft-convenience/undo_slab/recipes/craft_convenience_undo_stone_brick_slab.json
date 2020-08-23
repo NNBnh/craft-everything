@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:stone_brick_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_bricks",
+        "count": 1
+    },
+    "group": "undo_slab"
+}

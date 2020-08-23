@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:smooth_red_sandstone_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:smooth_red_sandstone_slab",
+        "count": 1
+    },
+    "group": "undo_stairs"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "GDL",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "G": {
+            "item": "minecraft:green_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "L": {
+            "item": "minecraft:lime_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_ward",
+        "count": 1
+    },
+    "group": "music_disc"
+}

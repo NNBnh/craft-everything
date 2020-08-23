@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:silverfish_spawn_egg"
+        },
+        {
+            "item": "minecraft:stone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:infested_stone",
+        "count": 1
+    },
+    "group": "infested"
+}

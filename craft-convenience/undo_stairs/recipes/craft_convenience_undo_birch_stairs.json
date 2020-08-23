@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:birch_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:birch_slab",
+        "count": 1
+    },
+    "group": "undo_stairs"
+}

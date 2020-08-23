@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dark_oak_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dark_oak_slab",
+        "count": 1
+    },
+    "group": "undo_stairs"
+}

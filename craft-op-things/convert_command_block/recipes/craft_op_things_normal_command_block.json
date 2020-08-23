@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:repeating_command_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1
+    },
+    "group": "command_block_convert"
+}

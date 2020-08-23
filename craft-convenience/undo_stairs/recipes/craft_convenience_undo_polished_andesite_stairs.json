@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:polished_andesite_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:polished_andesite_slab",
+        "count": 1
+    },
+    "group": "undo_stairs"
+}

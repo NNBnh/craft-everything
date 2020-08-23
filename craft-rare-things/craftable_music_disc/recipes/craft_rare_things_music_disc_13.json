@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#Y#",
+        "YDW",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "Y": {
+            "item": "minecraft:yellow_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "W": {
+            "item": "minecraft:white_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_13",
+        "count": 1
+    },
+    "group": "music_disc"
+}

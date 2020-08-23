@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "undo_fence:fence_and_gate"
+        }
+    ],
+    "result": {
+        "item": "minecraft:stick",
+        "count": 4
+    }
+}

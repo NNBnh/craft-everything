@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+            "item": "minecraft:mossy_cobblestone_stairs"
+    },
+    "result": "minecraft:mossy_cobblestone_slab",
+    "group": "undo_stairs",
+    "count": 1
+}

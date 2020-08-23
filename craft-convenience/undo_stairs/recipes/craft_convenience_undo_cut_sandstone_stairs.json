@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+            "item": "minecraft:sandstone_stairs"
+    },
+    "result": "minecraft:sandstone_slab",
+    "group": "undo_stairs",
+    "count": 1
+}

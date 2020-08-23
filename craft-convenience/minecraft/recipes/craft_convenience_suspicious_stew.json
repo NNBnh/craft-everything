@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "convenience_mushrooms:mushrooms"
+        },
+        {
+            "tag": "convenience_mushrooms:mushrooms"
+        },
+        {
+            "tag": "minecraft:flowers"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "item": "minecraft:suspicious_stew",
+        "count": 1
+    }
+}

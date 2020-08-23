@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bedrock"
+        },
+        {
+            "item": "minecraft:glass_pane"
+        }
+    ],
+    "result": {
+        "item": "minecraft:barrier",
+        "count": 1
+    }
+}

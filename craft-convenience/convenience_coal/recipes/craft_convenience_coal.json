@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:charcoal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:coal",
+        "count": 1
+    },
+    "group": "coal_convert"
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "gBg",
+        " g "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "B": {
+            "item": "minecraft:blackstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:gilded_blackstone",
+        "count": 1
+    },
+    "group": "ore"
+}

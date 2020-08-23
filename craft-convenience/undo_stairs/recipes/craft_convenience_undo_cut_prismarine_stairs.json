@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+            "item": "minecraft:prismarine_stairs"
+    },
+    "result": "minecraft:prismarine_slab",
+    "group": "undo_stairs",
+    "count": 1
+}

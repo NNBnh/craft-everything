@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+            "item": "minecraft:prismarine_wall"
+    },
+    "result": "minecraft:prismarine_slab",
+    "group": "undo_wall",
+    "count": 1
+}

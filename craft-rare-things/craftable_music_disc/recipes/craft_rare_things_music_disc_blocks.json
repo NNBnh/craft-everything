@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RDR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "R": {
+            "item": "minecraft:red_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_blocks",
+        "count": 1
+    },
+    "group": "music_disc"
+}

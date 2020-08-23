@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "WDW",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "P": {
+            "item": "minecraft:purple_dye"
+        },
+        "W": {
+            "item": "minecraft:white_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mellohi",
+        "count": 1
+    },
+    "group": "music_disc"
+}

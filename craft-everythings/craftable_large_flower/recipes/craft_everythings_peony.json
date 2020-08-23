@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_tulip"
+        }
+    },
+    "result": {
+        "item": "minecraft:peony",
+        "count": 1
+    },
+    "group": "large_flower"
+}

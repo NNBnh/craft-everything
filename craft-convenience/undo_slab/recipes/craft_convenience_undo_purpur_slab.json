@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "_"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:purpur_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:purpur_block",
+        "count": 1
+    },
+    "group": "undo_slab"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+            "item": "minecraft:brick_wall"
+    },
+    "result": "minecraft:brick_slab",
+    "group": "undo_wall",
+    "count": 1
+}

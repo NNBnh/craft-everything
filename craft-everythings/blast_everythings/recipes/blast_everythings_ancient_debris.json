@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:soul_sand"
+    },
+    "result": "minecraft:ancient_debris",
+    "experience": 0.1,
+    "cookingtime": 5000
+}

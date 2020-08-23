@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:warped_wart_block",
+        "minecraft:warped_roots",
+        "minecraft:nether_sprouts"
+    ]
+}

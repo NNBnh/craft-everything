@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:terracotta"
+        }
+    ],
+    "result": {
+        "item": "minecraft:brick",
+        "count": 4
+    }
+}

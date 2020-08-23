@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BDB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "B": {
+            "item": "minecraft:blue_dye"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_wait",
+        "count": 1
+    },
+    "group": "music_disc"
+}

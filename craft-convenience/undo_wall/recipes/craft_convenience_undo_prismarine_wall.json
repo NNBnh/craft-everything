@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:prismarine_wall"
+        }
+    ],
+    "result": {
+        "item": "minecraft:prismarine_slab",
+        "count": 1
+    },
+    "group": "undo_wall"
+}

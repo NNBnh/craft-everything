@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+            "item": "minecraft:purpur_stairs"
+    },
+    "result": "minecraft:purpur_slab",
+    "group": "undo_stairs",
+    "count": 1
+}
