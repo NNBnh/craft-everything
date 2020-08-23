@@ -1,0 +1,1 @@
+/give @p smooth_stone_slab{BlockStateTag:{type:"double"}} 1

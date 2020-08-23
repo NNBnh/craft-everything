@@ -1,0 +1,3 @@
+/give @p furnace{BlockStateTag:{lit:"true"}} 1
+/give @p smoker{BlockStateTag:{lit:"true"}} 1
+/give @p blast_furnace{BlockStateTag:{lit:"true"}} 1
