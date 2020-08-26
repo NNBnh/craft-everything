@@ -12,5 +12,6 @@
     "result": {
         "item": "minecraft:red_sandstone",
         "count": 2
-    }
+    },
+    "group": "sandstone"
 }

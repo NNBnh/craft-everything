@@ -1,8 +1,8 @@
-<h1 align="center">Craft Everythings</h1>
+<h1 align="center">Craft Everything</h1>
 <p align="center">The most ambitious Minecraft crafting recipes collections</p>
 
 ## About
-**Craft Everythings** is the biggest collections of Minecraft crafting recipes in datapacks form.
+**Craft Everything** is the biggest collections of Minecraft crafting recipes in datapacks form.
 
 > When Minecraft was at version 1.8, I created a skyblock map called "The end of The End" (can't find that map anymore ...) in which I did a workaround of custom crafting table using villager trading to craft everything from nothing.
 >
@@ -49,7 +49,7 @@ These recipes make god-tier / unbreakable items craftable.
 
 ## TODO/FIXME
 * [ ] Fix undo-fence
-* [ ] Add more-carpet
+* [ ] Woodwork using stonecuter
 * [ ] Double smooth stone slab: smooth_stone_slab{BlockStateTag:{type:"double"}} 1
 * [ ] Lit block:
   * [ ] Furnace: furnace{BlockStateTag:{lit:"true"}} 1
@@ -61,5 +61,3 @@ Special thanks to:
 * [**Crafting**](https://crafting.thedestruc7i0n.ca/) by [Thedestruc7i0n](https://thedestruc7i0n.ca)
 * [**Crafting Tweaks**](https://vanillatweaks.net/picker/crafting-tweaks) from [Vanilla Tweaks](https://vanillatweaks.net)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
-
-###### **NOTE:** Bfetch shares zero code with Crafting Tweaks or Voodoo Packs

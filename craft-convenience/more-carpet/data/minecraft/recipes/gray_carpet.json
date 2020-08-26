@@ -1,17 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "##",
         "##"
     ],
     "key": {
         "#": {
-            "item": "minecraft:sand"
+            "item": "minecraft:gray_wool"
         }
     },
     "result": {
-        "item": "minecraft:sandstone",
-        "count": 2
+        "item": "minecraft:gray_carpet",
+        "count": 6
     },
-    "group": "sandstone"
+    "group": "carpet"
 }

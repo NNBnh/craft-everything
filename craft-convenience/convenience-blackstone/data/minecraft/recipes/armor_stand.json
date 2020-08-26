@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        " / ",
+        "/_/"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "_": {
+            "tag": "minecraft:polished_stone_slab_tool_materials"
+        }
+    },
+    "result": {
+        "item": "minecraft:armor_stand",
+        "count": 1
+    }
+}
