@@ -1,8 +1,8 @@
-<h1 align="center">Craft Everythings</h1>
+<h1 align="center">Craft Everything</h1>
 <p align="center">The most ambitious Minecraft crafting recipes collections</p>
 
 ## About
-**Craft Everythings** is the biggest collections of Minecraft crafting recipes in datapacks form.
+**Craft Everything** is the biggest collections of Minecraft crafting recipes in datapacks form.
 
 > When Minecraft was at version 1.8, I created a skyblock map called "The end of The End" (can't find that map anymore ...) in which I did a workaround of custom crafting table using villager trading to craft everything from nothing.
 >
@@ -62,4 +62,4 @@ Special thanks to:
 * [**Crafting Tweaks**](https://vanillatweaks.net/picker/crafting-tweaks) from [Vanilla Tweaks](https://vanillatweaks.net)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
 
-###### **NOTE:** Bfetch shares zero code with Crafting Tweaks or Voodoo Packs
+###### **NOTE:** Craft Everything shares zero code with Crafting Tweaks or Voodoo Packs
