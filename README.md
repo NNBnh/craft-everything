@@ -1,6 +1,8 @@
-<h1 align="center">Craft Everything</h1>
-<p align="center">The most ambitious Minecraft crafting recipes collections</p>
-
+<p align="center"><img width="75%" src="image/logo.png" alt="Craft Everything">
+<p align="center"><img width="75%" src="image/sub-logo.png" alt="The most ambitious Minecraft crafting recipes collections">
+<p align="center"><img src="https://img.shields.io/github/license/NNBnh/craft-everything?style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/languages/top/NNBnh/craft-everything?style=for-the-badge" alt="Shell: 100%"> <img src="https://img.shields.io/github/last-commit/NNBnh/craft-everything?style=for-the-badge">
+<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/craft-everything?style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/craft-everything?style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/craft-everything?style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/craft-everything?style=flat-square">
+ 
 ## About
 **Craft Everything** is the biggest collections of Minecraft crafting recipes in datapacks form.
 
