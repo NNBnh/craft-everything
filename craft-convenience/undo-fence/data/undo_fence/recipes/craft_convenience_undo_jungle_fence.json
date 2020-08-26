@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:nether_brick_fence"
+            "item": "minecraft:jungle_fence"
         }
     ],
     "result": {
-        "item": "minecraft:nether_brick_slab",
+        "item": "minecraft:jungle_slab",
         "count": 1
     },
     "group": "undo_fence"

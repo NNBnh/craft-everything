@@ -2,11 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:nether_brick_fence"
+            "item": "minecraft:oak_fence"
         }
     ],
     "result": {
-        "item": "minecraft:nether_brick_slab",
+        "item": "minecraft:oak_slab",
         "count": 1
     },
     "group": "undo_fence"

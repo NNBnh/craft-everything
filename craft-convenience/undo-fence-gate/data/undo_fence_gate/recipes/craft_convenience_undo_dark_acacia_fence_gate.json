@@ -2,12 +2,12 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:nether_brick_fence"
+            "item": "minecraft:acacia_fence_gate"
         }
     ],
     "result": {
-        "item": "minecraft:nether_brick_slab",
+        "item": "minecraft:acacia_slab",
         "count": 1
     },
-    "group": "undo_fence"
+    "group": "undo_fence_gate"
 }
