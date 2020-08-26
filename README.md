@@ -50,6 +50,7 @@ These recipes make god-tier / unbreakable items craftable.
 ## TODO/FIXME
 * [ ] Fix undo-fence
 * [ ] Add more-carpet
+* [ ] Woodwork using stonecuter
 * [ ] Double smooth stone slab: smooth_stone_slab{BlockStateTag:{type:"double"}} 1
 * [ ] Lit block:
   * [ ] Furnace: furnace{BlockStateTag:{lit:"true"}} 1
