@@ -61,5 +61,3 @@ Special thanks to:
 * [**Crafting**](https://crafting.thedestruc7i0n.ca/) by [Thedestruc7i0n](https://thedestruc7i0n.ca)
 * [**Crafting Tweaks**](https://vanillatweaks.net/picker/crafting-tweaks) from [Vanilla Tweaks](https://vanillatweaks.net)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
-
-###### **NOTE:** Craft Everything shares zero code with Crafting Tweaks or Voodoo Packs
