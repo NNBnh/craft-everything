@@ -50,11 +50,11 @@ These recipes make god-tier / unbreakable items craftable.
 ## TODO/FIXME
 * [X] Fix undo-fence
 * [ ] Woodwork using stonecuter
-* [ ] Double smooth stone slab: smooth_stone_slab{BlockStateTag:{type:"double"}} 1
+* [ ] Double smooth stone slab `smooth_stone_slab{BlockStateTag:{type:"double"}} 1`
 * [ ] Lit block:
-  * [ ] Furnace: furnace{BlockStateTag:{lit:"true"}} 1
-  * [ ] Smoker: smoker{BlockStateTag:{lit:"true"}} 1
-  * [ ] Blast: blast_furnace{BlockStateTag:{lit:"true"}} 1
+  * [ ] Furnace `furnace{BlockStateTag:{lit:"true"}} 1`
+  * [ ] Smoker `smoker{BlockStateTag:{lit:"true"}} 1`
+  * [ ] Blast `blast_furnace{BlockStateTag:{lit:"true"}} 1`
 
 ## Credit
 Special thanks to:
