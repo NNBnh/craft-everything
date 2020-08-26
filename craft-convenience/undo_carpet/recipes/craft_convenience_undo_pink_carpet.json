@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pink_carpet"
+        }
+    },
+    "result": {
+        "item": "minecraft:pink_wool",
+        "count": 1
+    },
+    "group": "undo_carpet"
+}
