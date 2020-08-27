@@ -4,8 +4,6 @@
 <p align="center"><img src="https://img.shields.io/github/license/NNBnh/craft-everything?color=F75341&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/languages/top/NNBnh/craft-everything?color=F75341&style=for-the-badge" alt="Shell: 100%"> <img src="https://img.shields.io/github/last-commit/NNBnh/craft-everything?color=F75341&style=for-the-badge">
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/craft-everything?color=F75341&style=flat-square">
 
-https://img.shields.io/github/license/NNBnh/craft-everything?color=F75341&style=for-the-badge
-
 ## About
 **Craft Everything** is the biggest collections of Minecraft crafting recipes in datapacks form.
 
