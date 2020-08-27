@@ -52,12 +52,18 @@ These recipes make god-tier / unbreakable items craftable.
 
 ## TODO/FIXME
 * [X] Fix undo-fence
-* [ ] Woodwork using stonecuter
-* [ ] Double smooth stone slab `smooth_stone_slab{BlockStateTag:{type:"double"}} 1`
-* [ ] Lit block:
-  * [ ] Furnace `furnace{BlockStateTag:{lit:"true"}} 1`
-  * [ ] Smoker `smoker{BlockStateTag:{lit:"true"}} 1`
-  * [ ] Blast `blast_furnace{BlockStateTag:{lit:"true"}} 1`
+* [ ] Add craftable-skull
+* [ ] Add craftable-double-smooth-stone-slab `smooth_stone_slab{BlockStateTag:{type:"double"}} 1` (or not...)
+* [ ] Add lit blocks:
+  * [ ] craftable-lit-furnace `furnace{BlockStateTag:{lit:"true"}} 1`
+  * [ ] craftable-lit-smoker `smoker{BlockStateTag:{lit:"true"}} 1`
+  * [ ] craftable-lit-blast-furnace `blast_furnace{BlockStateTag:{lit:"true"}} 1`
+* [ ] Woodwork using stonecuter (or not...)
+* [ ] Add mob spawner
+  * [ ] Add craftable-spawn-egg
+  * [ ] Add craftable-spawner
+* [ ] Add craftable-end-gateway
+* [ ] Add drop-everything (loot-table)
 
 ## Credit
 Special thanks to:
