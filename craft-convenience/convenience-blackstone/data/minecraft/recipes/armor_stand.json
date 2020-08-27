@@ -10,7 +10,7 @@
             "item": "minecraft:stick"
         },
         "_": {
-            "tag": "minecraft:polished_stone_slab_tool_materials"
+            "tag": "craft_everything:polished_stone_slab_tool_materials"
         }
     },
     "result": {

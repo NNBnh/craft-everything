@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "tag": "convenience_mushrooms:mushrooms"
+            "tag": "craft_everything:mushrooms"
         },
         {
             "item": "minecraft:sugar"

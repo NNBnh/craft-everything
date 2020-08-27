@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:clay"
+        }
+    ],
+    "result": {
+        "item": "minecraft:clay_ball",
+        "count": 4
+    }
+}

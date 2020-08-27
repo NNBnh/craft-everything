@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "GSG",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lime_dye"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        },
+        "S": {
+            "item": "minecraft:skeleton_skull"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_head",
+        "count": 1
+    },
+    "group": "skull"
+}

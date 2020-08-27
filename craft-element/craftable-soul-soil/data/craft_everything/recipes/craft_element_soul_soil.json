@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G",
+        "G#"
+    ],
+    "key": {
+        "#": {
+            "tag": "craft_everything:soul_soil_materials"
+        },
+        "G": {
+            "item": "minecraft:gravel"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_soil",
+        "count": 4
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N",
+        "N#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
+        },
+        "N": {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherrack",
+        "count": 1
+    }
+}

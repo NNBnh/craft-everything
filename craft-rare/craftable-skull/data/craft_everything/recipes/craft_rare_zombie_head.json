@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RSR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:green_dye"
+        },
+        "R": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:skeleton_skull"
+        }
+    },
+    "result": {
+        "item": "minecraft:zombie_head",
+        "count": 1
+    },
+    "group": "skull"
+}
