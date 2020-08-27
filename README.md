@@ -11,7 +11,7 @@
 >
 > And now in 1.16 I finally have time to rework that idea with datapacks.
 
-###### **NOTE:** Lots of recipes are inspired or ported from Crafting Tweaks and Voodoo Packs ... see [Credit](#credit) for more details.
+###### **NOTE:** Lots of recipes are inspired or ported from Crafting Tweaks, The Missing Recipes and Voodoo Packs ... see [Credit](#credit) for more details.
 
 ## Contents
 * [About](#about)
@@ -51,22 +51,24 @@ These recipes are designed for use with skyblock map but are still convenient to
 These recipes make god-tier / unbreakable items craftable.
 
 ## TODO/FIXME
-* [X] Fix undo-fence
-* [ ] Add craftable-skull
-* [ ] Add craftable-double-smooth-stone-slab `smooth_stone_slab{BlockStateTag:{type:"double"}} 1` (or not...)
+* [X] Fix namespace
+* [X] Fix `undo-fence`
+* [X] Add `craftable-skull`
+* [ ] Add `craftable-double-smooth-stone-slab` `smooth_stone_slab{BlockStateTag:{type:"double"}} 1` (or not...)
 * [ ] Add lit blocks:
-  * [ ] craftable-lit-furnace `furnace{BlockStateTag:{lit:"true"}} 1`
-  * [ ] craftable-lit-smoker `smoker{BlockStateTag:{lit:"true"}} 1`
-  * [ ] craftable-lit-blast-furnace `blast_furnace{BlockStateTag:{lit:"true"}} 1`
+  * [ ] `craftable-lit-furnace` `furnace{BlockStateTag:{lit:"true"}} 1`
+  * [ ] `craftable-lit-smoker` `smoker{BlockStateTag:{lit:"true"}} 1`
+  * [ ] `craftable-lit-blast-furnace` `blast_furnace{BlockStateTag:{lit:"true"}} 1`
 * [ ] Woodwork using stonecuter (or not...)
 * [ ] Add mob spawner
-  * [ ] Add craftable-spawn-egg
-  * [ ] Add craftable-spawner
-* [ ] Add craftable-end-gateway
-* [ ] Add drop-everything (loot-table)
+  * [ ] Add `craftable-spawn-egg`
+  * [ ] Add `craftable-spawner`
+* [ ] Add `craftable-end-gateway`
+* [ ] Add loot-everything (loot-table)
 
 ## Credit
 Special thanks to:
 * [**Crafting**](https://crafting.thedestruc7i0n.ca/) by [Thedestruc7i0n](https://thedestruc7i0n.ca)
 * [**Crafting Tweaks**](https://vanillatweaks.net/picker/crafting-tweaks) from [Vanilla Tweaks](https://vanillatweaks.net)
+* [**The Missing Recipes**](https://github.com/CodeMouse92/the-missing-recipes) and [**No-Monster Datapack**](https://github.com/CodeMouse92/no-monster-minecraft) by [Jason C. McDonald (CodeMouse92)](https://github.com/CodeMouse92)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
