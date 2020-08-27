@@ -4,6 +4,6 @@
         "item": "minecraft:granite"
     },
     "result": "minecraft:redstone",
-    "experience": 0.1,
-    "cookingtime": 500
+    "experience": 0.3,
+    "cookingtime": 1200
 }

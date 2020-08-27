@@ -1,12 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:sweet_berries"
-        }
-    ],
-    "result": {
-        "item": "minecraft:purple_dye",
-        "count": 1
-    }
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:sweet_berries"
+    },
+    "result": "minecraft:purple_dye",
+    "experience": 1.0,
+    "cookingtime": 200
 }
