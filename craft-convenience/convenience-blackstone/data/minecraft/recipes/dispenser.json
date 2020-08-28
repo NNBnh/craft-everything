@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "tag": "minecraft:stone_tool_materials"
+            "tag": "minecraft:stone_crafting_materials"
         },
         "B": {
             "item": "minecraft:bow"

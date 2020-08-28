@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:dirt"
+    },
+    "result": "minecraft:red_sand",
+    "experience": 0,
+    "cookingtime": 100
+}

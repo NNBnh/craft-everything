@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:diorite"
+    },
+    "result": "minecraft:emerald_ore",
+    "experience": 1.0,
+    "cookingtime": 1200
+}

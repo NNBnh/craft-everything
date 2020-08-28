@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:andesite"
+    },
+    "result": "minecraft:lapis_ore",
+    "experience": 0.2,
+    "cookingtime": 1200
+}

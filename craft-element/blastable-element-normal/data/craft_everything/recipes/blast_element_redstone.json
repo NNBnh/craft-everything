@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:granite"
+    },
+    "result": "minecraft:redstone_ore",
+    "experience": 0.3,
+    "cookingtime": 1200
+}

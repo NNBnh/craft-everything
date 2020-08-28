@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "NEN",
+        "#Y#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "Y": {
+            "item": "minecraft:elytra"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_egg",
+        "count": 1
+    }
+}

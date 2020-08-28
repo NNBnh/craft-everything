@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:iron_block"
+    },
+    "result": "minecraft:lava_bucket",
+    "experience": 1.0,
+    "cookingtime": 20000
+}

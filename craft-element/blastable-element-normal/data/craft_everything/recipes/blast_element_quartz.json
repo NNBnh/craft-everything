@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:netherrack"
+    },
+    "result": "minecraft:nether_quartz_ore",
+    "experience": 0.2,
+    "cookingtime": 1200
+}

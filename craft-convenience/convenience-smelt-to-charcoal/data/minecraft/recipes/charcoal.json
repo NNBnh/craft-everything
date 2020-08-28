@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "craft_everything:charcoal_materials"
+    },
+    "result": "minecraft:charcoal",
+    "experience": 0.15,
+    "cookingtime": 200
+}

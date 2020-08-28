@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:sand"
+    },
+    "result": "minecraft:clay_ball",
+    "experience": 0,
+    "cookingtime": 100
+}

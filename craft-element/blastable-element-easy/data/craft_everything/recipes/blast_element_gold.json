@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:blackstone"
+    },
+    "result": "minecraft:gilded_blackstone",
+    "experience": 1.0,
+    "cookingtime": 600
+}

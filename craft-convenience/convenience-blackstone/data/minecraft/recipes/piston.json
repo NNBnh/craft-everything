@@ -10,7 +10,7 @@
             "tag": "minecraft:planks"
         },
         "S": {
-            "tag": "minecraft:stone_tool_materials"
+            "tag": "minecraft:stone_crafting_materials"
         },
         "i": {
             "item": "minecraft:iron_ingot"
