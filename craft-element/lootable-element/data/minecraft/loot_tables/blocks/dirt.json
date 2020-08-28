@@ -1,0 +1,82 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:dirt",
+                    "weight": 3,
+                    "conditions": [
+                        {
+                            "condition": "minecraft:survives_explosion"
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:sand",
+                    "weight": 1,
+                    "conditions": [
+                        {
+                            "condition": "minecraft:entity_properties",
+                            "entity": "this",
+                            "predicate": {
+                                "distance": {
+                                    "x": 0,
+                                    "z": 0
+                                },
+                                "flags": {
+                                    "is_sneaking": true
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:bamboo",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:inverted",
+                            "term": {
+                                "condition": "minecraft:alternative",
+                                "terms": [
+                                    {
+                                        "condition": "minecraft:inverted",
+                                        "term": {
+                                            "condition": "minecraft:entity_properties",
+                                            "entity": "this",
+                                            "predicate": {
+                                                "distance": {
+                                                    "x": 0,
+                                                    "z": 0
+                                                },
+                                                "flags": {
+                                                    "is_sneaking": true
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "condition": "minecraft:inverted",
+                                        "term": {
+                                            "condition": "minecraft:random_chance",
+                                            "chance": 0.125
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
