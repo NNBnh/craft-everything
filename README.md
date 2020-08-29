@@ -1,8 +1,8 @@
 <h1 align="center">Craft Everything</h1>
 <p align="center">The most ambitious Minecraft crafting recipes collections</p>
 <p align="center"><img width="50%" src="image/logo.png"></p>
-<p align="center"><img src="https://img.shields.io/github/license/NNBnh/craft-everything?color=F75341&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/last-commit/NNBnh/craft-everything?color=F75341&style=for-the-badge">
-<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/craft-everything?color=F75341&style=flat-square">
+<p align="center"><img src="https://img.shields.io/github/license/NNBnh/craft-everything?labelColor=1C1B19&color=F75341&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/last-commit/NNBnh/craft-everything?labelColor=1C1B19&color=F75341&style=for-the-badge">
+<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/craft-everything?labelColor=1C1B19&color=F75341&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/craft-everything?labelColor=1C1B19&color=F75341&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/craft-everything?labelColor=1C1B19&color=F75341&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/craft-everything?labelColor=1C1B19&color=F75341&style=flat-square">
 
 ## About
 **Craft Everything** is the biggest collections of Minecraft crafting recipes and loot table in datapacks form.
