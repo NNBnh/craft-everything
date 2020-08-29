@@ -8,7 +8,7 @@
                     "children": [
                         {
                             "type": "minecraft:item",
-                            "name": "minecraft:dirt",
+                            "name": "minecraft:gravel",
                             "conditions": [
                                 {
                                     "condition": "minecraft:alternative",
@@ -47,12 +47,26 @@
                             "children": [
                                 {
                                     "type": "minecraft:item",
-                                    "name": "minecraft:dirt",
-                                    "weight": 3
+                                    "name": "minecraft:flint",
+                                    "weight": 2,
+                                    "functions": [
+                                        {
+                                            "function": "minecraft:set_count",
+                                            "count": {
+                                                "min": 2,
+                                                "max": 4
+                                            }
+                                        }
+                                    ]
                                 },
                                 {
                                     "type": "minecraft:item",
-                                    "name": "minecraft:sand",
+                                    "name": "minecraft:gravel",
+                                    "weight": 1
+                                },
+                                {
+                                    "type": "minecraft:item",
+                                    "name": "minecraft:dirt",
                                     "weight": 1
                                 }
                             ]
@@ -67,56 +81,42 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:snowball",
-                    "weight": 1,
                     "conditions": [
                         {
-                            "condition": "minecraft:entity_properties",
-                            "entity": "this",
-                            "predicate": {
-                                "location": {
-                                    "position": {
-                                        "y": {
-                                            "min": 192
+                            "condition": "minecraft:inverted",
+                            "term": {
+                                "condition": "minecraft:alternative",
+                                "terms": [
+                                    {
+                                        "condition": "minecraft:inverted",
+                                        "term": {
+                                            "condition": "minecraft:entity_properties",
+                                            "entity": "this",
+                                            "predicate": {
+                                                "location": {
+                                                    "position": {
+                                                        "y": {
+                                                            "min": 192
+                                                        }
+                                                    }
+                                                },
+                                                "flags": {
+                                                    "is_sneaking": true
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "condition": "minecraft:inverted",
+                                        "term": {
+                                            "condition": "minecraft:random_chance",
+                                            "chance": 0.125
                                         }
                                     }
-                                }
+                                ]
                             }
                         }
                     ]
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:bamboo",
-                    "weight": 1
-                }
-            ],
-            "conditions": [
-                {
-                    "condition": "minecraft:inverted",
-                    "term": {
-                        "condition": "minecraft:alternative",
-                        "terms": [
-                            {
-                                "condition": "minecraft:inverted",
-                                "term": {
-                                    "condition": "minecraft:entity_properties",
-                                    "entity": "this",
-                                    "predicate": {
-                                        "flags": {
-                                            "is_sneaking": true
-                                        }
-                                    }
-                                }
-                            },
-                            {
-                                "condition": "minecraft:inverted",
-                                "term": {
-                                    "condition": "minecraft:random_chance",
-                                    "chance": 0.125
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         }

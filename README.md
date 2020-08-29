@@ -1,11 +1,11 @@
 <h1 align="center">Craft Everything</h1>
 <p align="center">The most ambitious Minecraft crafting recipes collections</p>
 <p align="center"><img width="50%" src="image/logo.png"></p>
-<p align="center"><img src="https://img.shields.io/github/license/NNBnh/craft-everything?color=F75341&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/languages/top/NNBnh/craft-everything?color=F75341&style=for-the-badge" alt="Shell: 100%"> <img src="https://img.shields.io/github/last-commit/NNBnh/craft-everything?color=F75341&style=for-the-badge">
+<p align="center"><img src="https://img.shields.io/github/license/NNBnh/craft-everything?color=F75341&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/last-commit/NNBnh/craft-everything?color=F75341&style=for-the-badge">
 <p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/craft-everything?color=F75341&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/craft-everything?color=F75341&style=flat-square">
 
 ## About
-**Craft Everything** is the biggest collections of Minecraft crafting recipes in datapacks form.
+**Craft Everything** is the biggest collections of Minecraft crafting recipes and loot table in datapacks form.
 
 > When Minecraft was at version 1.8, I created a skyblock map called "The end of The End" (can't find that map anymore ...) in which I did a workaround of custom crafting table using villager trading to craft everything from nothing.
 >
@@ -45,7 +45,7 @@ These recipes help improve quality of life, undo, convert and many more making t
 These recipes make crafting some of the rare items possible.
 
 ### Element
-These recipes are designed for use with skyblock map but are still convenient to have when playing normally.
+These recipes are designed for use with skyblock map (even in Void biome) but are still convenient to have when playing normally.
 
 ### OP
 These recipes make god-tier / unbreakable items craftable.
@@ -63,7 +63,7 @@ These recipes make god-tier / unbreakable items craftable.
   * [ ] Add `craftable-spawn-egg`
   * [ ] Add `craftable-spawner`
 * [ ] Add `craftable-end-gateway`
-* [ ] Add loot-everything (loot-table)
+* [X] Add loot-everything (loot-table)
 
 ## Credit
 Special thanks to:
