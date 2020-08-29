@@ -67,7 +67,8 @@ These recipes make god-tier / unbreakable items craftable.
 
 ## Credit
 Special thanks to:
-* [**Crafting**](https://crafting.thedestruc7i0n.ca/) by [Thedestruc7i0n](https://thedestruc7i0n.ca)
+* [**Crafting**](https://crafting.thedestruc7i0n.ca) by [Thedestruc7i0n](https://thedestruc7i0n.ca)
+* [**Loot Table Generator**](https://misode.github.io/loot-table) by [Misode](https://github.com/misode)
 * [**Crafting Tweaks**](https://vanillatweaks.net/picker/crafting-tweaks) from [Vanilla Tweaks](https://vanillatweaks.net)
 * [**The Missing Recipes**](https://github.com/CodeMouse92/the-missing-recipes) and [**No-Monster Datapack**](https://github.com/CodeMouse92/no-monster-minecraft) by [Jason C. McDonald (CodeMouse92)](https://github.com/CodeMouse92)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
