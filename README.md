@@ -7,6 +7,8 @@
 ## About
 **Craft Everything** is the biggest collections of Minecraft crafting recipes and loot table in datapacks form.
 
+Eveything here is `.json` only.
+
 > When Minecraft was at version 1.8, I created a skyblock map called "The end of The End" (can't find that map anymore ...) in which I did a workaround of custom crafting table using villager trading to craft everything from nothing.
 >
 > And now in 1.16 I finally have time to rework that idea with datapacks.
