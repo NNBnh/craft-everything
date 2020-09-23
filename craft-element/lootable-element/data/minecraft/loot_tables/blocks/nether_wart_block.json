@@ -20,13 +20,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:flint",
-                    "weight": 3
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:crimson_fungus",
-                    "weight": 1
+                    "name": "minecraft:flint"
                 }
             ],
             "conditions": [
