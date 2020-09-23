@@ -20,13 +20,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "minecraft:warped_fungus",
-                    "weight": 7
-                },
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:twisting_vines",
-                    "weight": 1
+                    "name": "minecraft:twisting_vines"
                 }
             ],
             "conditions": [
