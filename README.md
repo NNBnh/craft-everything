@@ -63,7 +63,7 @@ These recipes make god-tier / unbreakable items craftable.
 * [ ] Woodwork using stonecuter (or not...)
 * [ ] Add mob spawner
   * [ ] Add `craftable-spawn-egg`
-  * [ ] Add `craftable-spawner`
+  * [X] ~~Add `craftable-spawner`~~
 * [ ] Add `craftable-end-gateway`
 * [X] Add loot-everything (loot-table)
 
