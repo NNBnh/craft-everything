@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:totem_of_undying"
+        },
+        {
+            "item": "minecraft:pufferfish_bucket"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pufferfish_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_egg_fish"
+}

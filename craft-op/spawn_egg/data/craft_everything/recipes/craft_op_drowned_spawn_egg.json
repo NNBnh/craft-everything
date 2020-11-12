@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RTR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nautilus_shell"
+        },
+        "R": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "minecraft:drowned_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_egg"
+}

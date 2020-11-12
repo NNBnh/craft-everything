@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "PTP",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather"
+        },
+        "P": {
+            "item": "minecraft:porkchop"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "minecraft:hoglin_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_egg"
+}

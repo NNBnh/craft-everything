@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#I"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "I": {
+            "tag": "craft_everything:infested"
+        }
+    },
+    "result": {
+        "item": "minecraft:silverfish_spawn_egg",
+        "count": 1
+    }
+}

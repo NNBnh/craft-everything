@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RTR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "minecraft:witch_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_egg"
+}

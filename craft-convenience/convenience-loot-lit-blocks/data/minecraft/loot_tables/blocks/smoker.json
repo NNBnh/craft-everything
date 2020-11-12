@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:smoker",
+                    "functions": [
+                        {
+                            "function": "minecraft:copy_state",
+                            "block": "minecraft:smoker",
+                            "properties": [
+                                "lit"
+                            ]
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "condition": "minecraft:match_tool",
+                            "predicate": {
+                                "enchantments": [
+                                    {
+                                        "enchantment": "minecraft:silk_touch",
+                                        "levels": {
+                                            "min": 1
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

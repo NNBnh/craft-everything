@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iCi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:chipped_anvil"
+        }
+    },
+    "result": {
+        "item": "minecraft:anvil",
+        "count": 1
+    },
+    "group": "anvil_repair"
+}

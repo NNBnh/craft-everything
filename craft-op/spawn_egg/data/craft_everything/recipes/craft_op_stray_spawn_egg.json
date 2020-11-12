@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BTB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snowball"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "minecraft:stray_spawn_egg",
+        "count": 1
+    },
+    "group": "spawn_egg"
+}
