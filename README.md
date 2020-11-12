@@ -75,4 +75,4 @@ Special thanks to:
 * [**Crafting Tweaks**](https://vanillatweaks.net/picker/crafting-tweaks) from [Vanilla Tweaks](https://vanillatweaks.net)
 * [**The Missing Recipes**](https://github.com/CodeMouse92/the-missing-recipes) and [**No-Monster Datapack**](https://github.com/CodeMouse92/no-monster-minecraft) by [Jason C. McDonald (CodeMouse92)](https://github.com/CodeMouse92)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
-* [**Craft Everything**](https://www.curseforge.com/minecraft/customization/craft-everythingish-data-pack) by [Erufailon4](https://github.com/Erufailon4): **We did not get a name from this datapack**, we found thisafter searching the internet to find if there is any datapack with a similar name, We're just inspired by anvil repair recipe
+* [**Craft Everything**](https://www.curseforge.com/minecraft/customization/craft-everythingish-data-pack) by [Erufailon4](https://github.com/Erufailon4): **We did not get the name from this datapack**, we found thisafter searching the internet to find if there is any datapack with a similar name, We're just inspired by anvil repair recipe
