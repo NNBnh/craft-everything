@@ -5,11 +5,11 @@
             "item": "minecraft:totem_of_undying"
         },
         {
-            "item": "minecraft:turtle_egg"
+            "item": "minecraft:egg"
         }
     ],
     "result": {
-        "item": "minecraft:turtle_spawn_egg",
+        "item": "minecraft:chicken_spawn_egg",
         "count": 1
     },
     "group": "spawn_egg_egg"
