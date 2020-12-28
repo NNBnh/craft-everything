@@ -76,3 +76,7 @@ Special thanks to:
 * [**The Missing Recipes**](https://github.com/CodeMouse92/the-missing-recipes) and [**No-Monster Datapack**](https://github.com/CodeMouse92/no-monster-minecraft) by [Jason C. McDonald (CodeMouse92)](https://github.com/CodeMouse92)
 * [**Voodoo Packs**](https://mc.voodoobeard.com/#recipes) by [Voodoobeard](http://voodoobeard.com/)
 * [**Craft Everything**](https://www.curseforge.com/minecraft/customization/craft-everythingish-data-pack) by [Erufailon4](https://github.com/Erufailon4): **We did not get the name from this datapack**, we found thisafter searching the internet to find if there is any datapack with a similar name, We're just inspired by anvil repair recipe
+
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Snack (Buy Me a Coffee)"></p>
