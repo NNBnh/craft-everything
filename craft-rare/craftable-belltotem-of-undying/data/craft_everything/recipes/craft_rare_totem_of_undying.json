@@ -1,13 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " # ",
+        "#C#",
         "gEg",
         " g "
     ],
     "key": {
         "#": {
             "item": "minecraft:emerald"
+        },
+        "C": {
+            "item": "minecraft:carved_pumpkin"
         },
         "g": {
             "item": "minecraft:gold_ingot"
